@@ -1,10 +1,10 @@
-import Collapse from "../Collapse";
+import Collapse from "../ui/Collapse";
 
 const FAQ = () => {
   return (
     <section className="py-24 bg-white">
 
-      <div className="max-w-screen-xl mx-auto px-8">
+      <div className="max-w-7xl mx-auto px-8">
 
         {/* TITLE */}
         <div className="text-center mb-16" data-aos="fade-up">

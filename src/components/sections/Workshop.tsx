@@ -1,5 +1,5 @@
-import Button from "../Button";
-import Image from "../Image";
+import Button from "../ui/Button";
+import Image from "../ui/Image";
 
 const Workshop = () => {
   return (

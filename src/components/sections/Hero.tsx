@@ -1,4 +1,4 @@
-import Button from "../Button";
+import Button from "../ui/Button";
 const Hero = () => {
   return (
     <section id="home" className="pt-32 pb-16">
